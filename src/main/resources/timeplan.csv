@@ -1,0 +1,367 @@
+﻿;Navn:;a;;Check for duplicates:;;a;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;Emne;Tema;Gr. ;Uke nr. ;Dato;Dag;Tid;Tidspunkt;Foreleser;Rom;Undervisningsform;Kommentarer;Oppgaver/innleveringer;Helper1 (Date + Time + Name);Helper2 (Date + Time + Room);Helper1 Instance;Helper2 Instance;Check for Duplicates
+;G2-KRO1300;Teori KRØ;;2;08.jan;mandag;1;08:15-09:45;???;;Teori;;;4310808:15-09:45???;4310808:15-09:45;1;1;1
+;BI-BAO3000;Økt 1;;2;08.jan;mandag;f;08:15-11:45;Markus Vagle;;Teori;;;4310808:15-11:45Markus Vagle;4310808:15-11:45;1;3;3
+;G1-KRO1100;Oppstart + friluft teori;;2;08.jan;mandag;f;08:15-11:45;Simen Thorrud;;Teori;G1 og G2 sammen ca. 30 pers;;4310808:15-11:45Simen Thorrud;4310808:15-11:45;2;3;3
+;G2-KRO1300;Oppstart + friluft teori;;2;08.jan;mandag;f;08:15-11:45;Simen Thorrud;;Teori;G1 og G2 sammen ca. 30 pers;;4310808:15-11:45Simen Thorrud;4310808:15-11:45;2;3;3
+;G1-KRO1100;Ballbasis;;2;08.jan;mandag;3;12:15-13:45;Simen Thorrud;Idrettshall;Praktisk;;;4310812:15-13:45Simen Thorrud;4310812:15-13:45Idrettshall;1;1;1
+;G2-KRO1300;Skolerettet tvekamp;;2;08.jan;mandag;3;12:15-13:45;Erlend Ellefsen Vinje;Dansesal;Praktisk;;;4310812:15-13:45Erlend Ellefsen Vinje;4310812:15-13:45Dansesal;1;1;1
+;BI-IDR1301;Anatomi;;2;08.jan;mandag;e;12:15-15:45;Markus Vagle;;Teori;;;4310812:15-15:45Markus Vagle;4310812:15-15:45;1;1;1
+;G2-KRO1300;Innebandy;;2;08.jan;mandag;4;14:15-15:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4310814:15-15:45Fredrik Lie Haugen;4310814:15-15:45Idrettshall;1;1;1
+;BI-IDR1301;Kollokvie;;2;09.jan;tirsdag;1;08:15-09:45;Markus Vagle;;Teori;;;4310908:15-09:45Markus Vagle;4310908:15-09:45;1;1;1
+;G1-KRO1100;Ballbasis;;2;09.jan;tirsdag;1;08:15-09:45;Simen Thorrud;Idrettshall;Praktisk;;;4310908:15-09:45Simen Thorrud;4310908:15-09:45Idrettshall;1;1;1
+;G2-KRO1400;Teori KRØ;;2;09.jan;tirsdag;f;08:15-11:45;???;;Teori;;;4310908:15-11:45???;4310908:15-11:45;1;1;1
+;BI-IDR1401;Innebandy;A;2;09.jan;tirsdag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4310910:15-11:45Fredrik Lie Haugen;4310910:15-11:45Idrettshall;1;1;1
+;G1-KRO1100;Didaktikk teori;;2;09.jan;tirsdag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4310910:15-11:45Markus Johansen Aasland;4310910:15-11:45;1;1;1
+;BI-IDR1401;Innebandy;B;2;09.jan;tirsdag;3;12:15-13:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4310912:15-13:45Fredrik Lie Haugen;4310912:15-13:45Idrettshall;1;1;1
+;G2-KRO1300;Skolerettet tvekamp;;2;09.jan;tirsdag;3;12:15-13:45;Erlend Ellefsen Vinje;Dansesal;Praktisk;;;4310912:15-13:45Erlend Ellefsen Vinje;4310912:15-13:45Dansesal;1;1;1
+;BI-FAH2300;Økt 1;;2;09.jan;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4310912:15-15:45Anne Sæther;;;;
+;G1-KRO1200;Teori KRØ;;2;09.jan;tirsdag;e;12:15-15:45;Simen Thorrud;;Teori;;;4310912:15-15:45Simen Thorrud;;;;
+;G2-KRO1300;Håndball;;2;09.jan;tirsdag;4;14:15-15:45;Eivind Andersen;Idrettshall;Praktisk;;;4310914:15-15:45Eivind Andersen;4310914:15-15:45Idrettshall;1;1;1
+;G2-KRO1400;Teori KRØ;;2;10.jan;onsdag;1;08:15-09:45;???;;Teori;;;4311008:15-09:45???;4311008:15-09:45;1;1;1
+;BI-IDR1301;Anatomi;;2;10.jan;onsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4311008:15-11:45Markus Vagle;4311008:15-11:45;1;1;1
+;G1-KRO1100;Svømming;;2;10.jan;onsdag;2;10:15-11:45;Simen Thorrud;Svømmehall;Praktisk;;;4311010:15-11:45Simen Thorrud;4311010:15-11:45Svømmehall;1;1;1
+;G2-KRO1300;Innebandy;;2;10.jan;onsdag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4311010:15-11:45Fredrik Lie Haugen;4311010:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;1;2;10.jan;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4311012:15-13:45Anne Sæther;4311012:15-13:45Svømmehall;1;1;1
+;G1-KRO1100;Ballbasis;;2;10.jan;onsdag;3;12:15-13:45;Simen Thorrud;Idrettshall;Praktisk;;;4311012:15-13:45Simen Thorrud;4311012:15-13:45Idrettshall;1;1;1
+;G2-KRO1300;Skolerettet tvekamp;;2;10.jan;onsdag;3;12:15-13:45;Erlend Ellefsen Vinje;Dansesal;Praktisk;;;4311012:15-13:45Erlend Ellefsen Vinje;4311012:15-13:45Dansesal;1;1;1
+;BI-IDR1401;Svømming;2;2;11.jan;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4311108:15-09:45Anne Sæther;4311108:15-09:45Svømmehall;;;
+;BI-BAO3000;Økt 2;;2;11.jan;torsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4311108:15-11:45Markus Vagle;4311108:15-11:45;1;2;2
+;MG1KR2;Teori KRØ;;2;11.jan;torsdag;f;08:15-11:45;Markus Johansen Aasland;;Teori;;;4311108:15-11:45Markus Johansen Aasland;4311108:15-11:45;1;2;2
+;BI-IDR1401;Svømming;3;2;11.jan;torsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4311110:15-11:45Anne Sæther;4311110:15-11:45Svømmehall;1;1;1
+;MG2KR2;Lek og sans;;2;11.jan;torsdag;2;10:15-11:45;Heidi Lindsverk;Idrettshall;Praktisk;;;4311110:15-11:45Heidi Lindsverk;4311110:15-11:45Idrettshall;1;1;1
+;MG1KR2;Lek, akt. Og natur;;2;11.jan;torsdag;3;12:15-13:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4311112:15-13:45Markus Johansen Aasland;4311112:15-13:45Idrettshall;1;1;1
+;MG2KR2;Teori KRØ;;2;11.jan;torsdag;E;12:15-15:45;Erlend Ellefsen Vinje;;Teori;;;4311112:15-15:45Erlend Ellefsen Vinje;4311112:15-15:45;1;1;1
+;PPU;Samling 1;;2;11.jan;torsdag;pput;15:15-20:00;Rein Jensen;E2-40;Teori;;;4311115:15-20:00Rein Jensen;4311115:15-20:00E2-40;1;1;1
+;MG2KR2;Teori KRØ;;2;12.jan;fredag;1;08:15-09:45;Erlend Ellefsen Vinje;;;;;4311208:15-09:45Erlend Ellefsen Vinje;4311208:15-09:45;1;1;1
+;MG1KR2;Teori KRØ;;2;12.jan;fredag;F;08:15-11:45;Markus Johansen Aasland;;Teori;;;4311208:15-11:45Markus Johansen Aasland;4311208:15-11:45;1;1;1
+;PPU;Samling 1;;2;12.jan;fredag;ppuf;09:15-14:00;Rein Jensen;Idrettshall;Praktisk;;;4311209:15-14:00Rein Jensen;4311209:15-14:00Idrettshall;1;1;1
+;G2-KRO1300;Skøyter;;2;12.jan;fredag;2;10:15-11:45;???;Ute;Praktisk;;;4311210:15-11:45???;4311210:15-11:45Ute;1;1;1
+;MG2KR2;Teori KRØ;;2;12.jan;fredag;2;10:15-11:45;Heidi Lindsverk;;;;;4311210:15-11:45Heidi Lindsverk;4311210:15-11:45;1;1;1
+;G2-KRO1300;Skøyter;;2;12.jan;fredag;3;12:15-13:45;???;Ute;Praktisk;;;4311212:15-13:45???;4311212:15-13:45Ute;1;1;1
+;G1-KRO1100;Didaktikk teori;;3;15.jan;mandag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4311508:15-09:45Markus Johansen Aasland;4311508:15-09:45;1;1;1
+;G2-KRO1300;Håndball;;3;15.jan;mandag;1;08:15-09:45;Eivind Andersen;Idrettshall;Praktisk;;;4311508:15-09:45Eivind Andersen;4311508:15-09:45Idrettshall;1;1;1
+;BI-BAO3000;Økt 3;;3;15.jan;mandag;f;08:15-11:45;Markus Vagle;;Teori;Dobbelbook meg her - vi fordeler innad;;4311508:15-11:45Markus Vagle;4311508:15-11:45;2;2;2
+;BI-IDR1301;Anatomi;;3;15.jan;mandag;f;08:15-11:45;Markus Vagle;;Teori;;;4311508:15-11:45Markus Vagle;4311508:15-11:45;2;2;2
+;G1-KRO1100;Dans;;3;15.jan;mandag;2;10:15-11:45;???;Dansesal;Praktisk;;;4311510:15-11:45???;4311510:15-11:45Dansesal;1;1;1
+;G2-KRO1300;Innebandy;;3;15.jan;mandag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4311510:15-11:45Fredrik Lie Haugen;4311510:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Innebandy;B;3;15.jan;mandag;3;12:15-13:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4311512:15-13:45Fredrik Lie Haugen;4311512:15-13:45Idrettshall;1;1;1
+;G1-KRO1200;Teori KRØ;;3;15.jan;mandag;e;12:15-15:45;Simen Thorrud;;Teori;;;4311512:15-15:45Simen Thorrud;4311512:15-15:45;1;1;1
+;BI-IDR1401;Innebandy;A;3;15.jan;mandag;4;14:15-15:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4311514:15-15:45Fredrik Lie Haugen;4311514:15-15:45Idrettshall;1;1;1
+;BI-IDR1301;Kollokvie;B;3;16.jan;tirsdag;1;08:15-09:45;Markus Vagle;;Teori;;;4311608:15-09:45Markus Vagle;4311608:15-09:45;1;1;1
+;BI-IDR1401;Dans;A;3;16.jan;tirsdag;1;08:15-09:45;???;Dansesal;Praktisk;;;4311608:15-09:45???;4311608:15-09:45Dansesal;1;1;1
+;G1-KRO1200;Teori KRØ;;3;16.jan;tirsdag;f;08:15-11:45;Markus Johansen Aasland;;Teori;;;4311608:15-11:45Markus Johansen Aasland;4311608:15-11:45;1;2;2
+;G2-KRO1300;Teori KRØ;;3;16.jan;tirsdag;f;08:15-11:45;???;;Teori;;;4311608:15-11:45???;4311608:15-11:45;1;2;2
+;BI-IDR1301;Kollokvie;A;3;16.jan;tirsdag;2;10:15-11:45;Markus Vagle;;Teori;;;4311610:15-11:45Markus Vagle;4311610:15-11:45;1;1;1
+;BI-IDR1401;Dans;B;3;16.jan;tirsdag;2;10:15-11:45;???;Dansesal;Praktisk;;;4311610:15-11:45???;4311610:15-11:45Dansesal;1;1;1
+;BI-IDR1401;Skøyter;A;3;16.jan;tirsdag;3;12:15-13:45;???;Ute;Praktisk;;;4311612:15-13:45???;4311612:15-13:45Ute;1;1;1
+;G1-KRO1100;Didaktikk teori;;3;16.jan;tirsdag;3;12:15-13:45;Markus Johansen Aasland;;Teori;;;4311612:15-13:45Markus Johansen Aasland;4311612:15-13:45;1;1;1
+;G2-KRO1300;Håndball;;3;16.jan;tirsdag;3;12:15-13:45;Eivind Andersen;Idrettshall;Praktisk;;;4311612:15-13:45Eivind Andersen;4311612:15-13:45Idrettshall;1;1;1
+;BI-FAH2300;Økt 2;;3;16.jan;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4311612:15-15:45Anne Sæther;4311612:15-15:45;1;1;1
+;BI-IDR1401;Skøyter;B;3;16.jan;tirsdag;4;14:15-15:45;???;Ute;Praktisk;;;4311614:15-15:45???;4311614:15-15:45Ute;1;1;1
+;G1-KRO1100;Håndball;;3;16.jan;tirsdag;4;14:15-15:45;Eivind Andersen;Idrettshall;Praktisk;;;4311614:15-15:45Eivind Andersen;4311614:15-15:45Idrettshall;1;1;1
+;G1-KRO1100;Svømming;;3;17.jan;onsdag;1;08:15-09:45;Simen Thorrud;Svømmehall;Praktisk;;;4311708:15-09:45Simen Thorrud;4311708:15-09:45Svømmehall;1;1;1
+;G2-KRO1400;Teori KRØ;;3;17.jan;onsdag;f;08:15-11:45;???;;Teori;;;4311708:15-11:45???;4311708:15-11:45;1;1;1
+;BI-IDR1401;Svømming;1;3;17.jan;onsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4311710:15-11:45Anne Sæther;4311710:15-11:45Svømmehall;1;1;1
+;G1-KRO1100;Dans;;3;17.jan;onsdag;2;10:15-11:45;???;Dansesal;Praktisk;;;4311710:15-11:45???;4311710:15-11:45Dansesal;1;1;1
+;BI-IDR1401;Svømming;2;3;17.jan;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4311712:15-13:45Anne Sæther;4311712:15-13:45Svømmehall;1;1;1
+;G2-KRO1300;Studentinstruksjon;;3;17.jan;onsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4311712:15-13:45???;4311712:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;3;3;18.jan;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4311808:15-09:45Anne Sæther;4311808:15-09:45Svømmehall;1;1;1
+;BI-BAO3000;Økt 4;;3;18.jan;torsdag;f;08:15-11:45;Fredrik Lie Haugen;;Teori;;;4311808:15-11:45Fredrik Lie Haugen;4311808:15-11:45;1;2;2
+;MG1KR2;Teori KRØ;;3;18.jan;torsdag;F;08:15-11:45;Heidi Lindsverk;;Teori;;;4311808:15-11:45Heidi Lindsverk;4311808:15-11:45;1;2;2
+;BI-IDR1301;Anatomi;;3;18.jan;torsdag;2;10:15-11:45;Markus Vagle;;Teori;;;4311810:15-11:45Markus Vagle;4311810:15-11:45;1;2;2
+;MG2KR2;Teori KRØ;;3;18.jan;torsdag;2;10:15-11:45;Erlend Ellefsen Vinje;;Teori;;;4311810:15-11:45Erlend Ellefsen Vinje;4311810:15-11:45;1;2;2
+;BI-IDR1301;Anatomi;;3;18.jan;torsdag;3;12:15-13:45;Markus Vagle;;Teori;;;4311812:15-13:45Markus Vagle;4311812:15-13:45;1;1;1
+;MG2KR2;Skolerettet tvekamp;;3;18.jan;torsdag;3;12:15-13:45;Erlend Ellefsen Vinje;Dansesal;;;;4311812:15-13:45Erlend Ellefsen Vinje;4311812:15-13:45Dansesal;1;1;1
+;MG1KR2;Gj.gang før praksis;;3;19.jan;fredag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4311908:15-09:45Markus Johansen Aasland;4311908:15-09:45;1;1;1
+;MG2KR2;Lek og sans;;3;19.jan;fredag;1;08:15-09:45;Heidi Lindsverk;Idrettshall;;;;4311908:15-09:45Heidi Lindsverk;4311908:15-09:45Idrettshall;1;1;1
+;MG1KR2;Lek, akt. Og natur;;3;19.jan;fredag;2;10:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4311910:15-11:45Markus Johansen Aasland;4311910:15-11:45Idrettshall;1;1;1
+;MG2KR2;Skolerettet tvekamp;;3;19.jan;fredag;2;10:15-11:45;Erlend Ellefsen Vinje;Dansesal;;;;4311910:15-11:45Erlend Ellefsen Vinje;4311910:15-11:45Dansesal;1;1;1
+;BI-IDR1401;Innebandy;A;4;22.jan;mandag;1;08:15-09:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4312208:15-09:45Fredrik Lie Haugen;4312208:15-09:45Idrettshall;1;1;1
+;BI-IDR1401;Dans;B;4;22.jan;mandag;1;08:15-09:45;???;Dansesal;Praktisk;;;4312208:15-09:45???;4312208:15-09:45Dansesal;1;1;1
+;BI-BAO3000;Økt 5;;4;22.jan;mandag;f;08:15-11:45;Markus Vagle;;Teori;;;4312208:15-11:45Markus Vagle;4312208:15-11:45;1;2;2
+;G2-KRO1400;Teori KRØ;;4;22.jan;mandag;f;08:15-11:45;???;;Teori;;;4312208:15-11:45???;4312208:15-11:45;1;2;2
+;BI-IDR1401;Innebandy;B;4;22.jan;mandag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4312210:15-11:45Fredrik Lie Haugen;4312210:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Dans;A;4;22.jan;mandag;2;10:15-11:45;???;Dansesal;Praktisk;;;4312210:15-11:45???;4312210:15-11:45Dansesal;1;1;1
+;G1-KRO1200;Teori KRØ;;4;22.jan;mandag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4312210:15-11:45Markus Johansen Aasland;4312210:15-11:45;1;1;1
+;BI-IDR1301;Kollokvie;;4;22.jan;mandag;3;12:15-13:45;Markus Vagle;;Teori;;;4312212:15-13:45Markus Vagle;4312212:15-13:45;1;1;1
+;G1-KRO1100;Dans;;4;22.jan;mandag;3;12:15-13:45;???;Dansesal;Praktisk;;;4312212:15-13:45???;4312212:15-13:45Dansesal;1;1;1
+;G2-KRO1300;Innebandy;;4;22.jan;mandag;3;12:15-13:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4312212:15-13:45Fredrik Lie Haugen;4312212:15-13:45Idrettshall;1;1;1
+;G1-KRO1100;Svømming;;4;22.jan;mandag;4;14:15-15:45;Simen Thorrud;Svømmehall;Praktisk;;;4312214:15-15:45Simen Thorrud;4312214:15-15:45Svømmehall;1;1;1
+;G2-KRO1300;Håndball;;4;22.jan;mandag;4;14:15-15:45;Eivind Andersen;Idrettshall;Praktisk;;;4312214:15-15:45Eivind Andersen;4312214:15-15:45Idrettshall;1;1;1
+;MG1KR2;Praksis uke 4-7;;4;22.jan;mandag;5;Hele dagen;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 4 - 7;;43122Hele dagen;43122Hele dagen;2;2;2
+;MG2KR2;Praksis uke 4-7;;4;22.jan;mandag;5;Hele dagen;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 4 - 7;;43122Hele dagen;43122Hele dagen;2;2;2
+;G1-KRO1100;Håndball;;4;23.jan;tirsdag;1;08:15-09:45;Eivind Andersen;Idrettshall;Praktisk;;;4312308:15-09:45Eivind Andersen;4312308:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Anatomi;;4;23.jan;tirsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4312308:15-11:45Markus Vagle;4312308:15-11:45;1;1;1
+;G1-KRO1100;Didaktikk teori;;4;23.jan;tirsdag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4312310:15-11:45Markus Johansen Aasland;4312310:15-11:45;1;1;1
+;BI-IDR1401;Lek og sans;A;4;23.jan;tirsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4312312:15-13:45???;4312312:15-13:45Idrettshall;2;1;2
+;BI-IDR1401;Dans;B;4;23.jan;tirsdag;3;12:15-13:45;???;Dansesal;Praktisk;;;4312312:15-13:45???;4312312:15-13:45Dansesal;2;1;2
+;G1-KRO1200;Teori KRØ;;4;23.jan;tirsdag;3;12:15-13:45;Markus Johansen Aasland;;Teori;;;4312312:15-13:45Markus Johansen Aasland;4312312:15-13:45;;;
+;BI-FAH2300;Økt 3;;4;23.jan;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4312312:15-15:45Anne Sæther;4312312:15-15:45;;;
+;BI-IDR1401;Lek og sans;B;4;23.jan;tirsdag;4;14:15-15:45;???;Idrettshall;Praktisk;;;4312314:15-15:45???;4312314:15-15:45Idrettshall;2;1;2
+;BI-IDR1401;Dans;A;4;23.jan;tirsdag;4;14:15-15:45;???;Dansesal;Praktisk;;;4312314:15-15:45???;4312314:15-15:45Dansesal;2;1;2
+;BI-IDR1401;Innebandy;A;4;24.jan;onsdag;1;08:15-09:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4312408:15-09:45Fredrik Lie Haugen;4312408:15-09:45Idrettshall;1;1;1
+;BI-IDR1401;Dans;B;4;24.jan;onsdag;1;08:15-09:45;???;Dansesal;Praktisk;;;4312408:15-09:45???;4312408:15-09:45Dansesal;1;1;1
+;G1-KRO1100;Svømming;;4;24.jan;onsdag;1;08:15-09:45;Simen Thorrud;Svømmehall;Praktisk;;;4312408:15-09:45Simen Thorrud;4312408:15-09:45Svømmehall;1;1;1
+;G2-KRO1400;Teori KRØ;;4;24.jan;onsdag;f;08:15-11:45;???;;Teori;;;4312408:15-11:45???;4312408:15-11:45;1;1;1
+;BI-IDR1401;Svømming;2;4;24.jan;onsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4312410:15-11:45Anne Sæther;4312410:15-11:45Svømmehall;1;1;1
+;G1-KRO1100;Dans;;4;24.jan;onsdag;2;10:15-11:45;???;Dansesal;Praktisk;;;4312410:15-11:45???;4312410:15-11:45Dansesal;1;1;1
+;BI-IDR1401;Svømming;1;4;24.jan;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4312412:15-13:45Anne Sæther;4312412:15-13:45Svømmehall;1;1;1
+;G2-KRO1300;Studentinstruksjon;;4;24.jan;onsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4312412:15-13:45???;4312412:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;3;4;25.jan;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4312508:15-09:45Anne Sæther;4312508:15-09:45Svømmehall;1;1;1
+;BI-BAO3000;Økt 6;;4;25.jan;torsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4312508:15-11:45Markus Vagle;4312508:15-11:45;1;1;1
+;BI-IDR1401;Innebandy;B;4;25.jan;torsdag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4312510:15-11:45Fredrik Lie Haugen;4312510:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Dans;A;4;25.jan;torsdag;2;10:15-11:45;???;Dansesal;Praktisk;;;4312510:15-11:45???;4312510:15-11:45Dansesal;1;1;1
+;PPU;Samling 2;;4;25.jan;torsdag;pput;15:15-20:00;Rein Jensen;E2-40;Teori;;;4312515:15-20:00Rein Jensen;4312515:15-20:00E2-40;1;1;1
+;PPU;Samling 2;;4;26.jan;fredag;ppuf;09:15-14:00;Rein Jensen;Idrettshall;Praktisk;;;4312609:15-14:00Rein Jensen;4312609:15-14:00Idrettshall;1;1;1
+;BI-BAO3000;Økt 7;;5;29.jan;mandag;f;08:15-11:45;Fredrik Lie Haugen;;Teori;;;4312908:15-11:45Fredrik Lie Haugen;4312908:15-11:45;1;4;4
+;BI-IDR1301;Anatomi;;5;29.jan;mandag;f;08:15-11:45;Markus Vagle;;Teori;;;4312908:15-11:45Markus Vagle;4312908:15-11:45;;;
+;G1-KRO1200;Teori KRØ;;5;29.jan;mandag;f;08:15-11:45;Markus Johansen Aasland;;Teori;;;4312908:15-11:45Markus Johansen Aasland;4312908:15-11:45;1;4;4
+;G2-KRO1400;Teori KRØ;;5;29.jan;mandag;f;08:15-11:45;???;;Teori;;;4312908:15-11:45???;4312908:15-11:45;1;4;4
+;BI-IDR1401;Lek og sans;A;5;29.jan;mandag;3;12:15-13:45;???;Idrettshall;Praktisk;Må dele hallen;;4312912:15-13:45???;4312912:15-13:45Idrettshall;2;2;2
+;BI-IDR1401;Innebandy;B;5;29.jan;mandag;3;12:15-13:45;Fredrik Lie Haugen;Idrettshall;Praktisk;Må dele hallen;;4312912:15-13:45Fredrik Lie Haugen;4312912:15-13:45Idrettshall;1;2;2
+;G1-KRO1100;Dans;;5;29.jan;mandag;3;12:15-13:45;???;Dansesal;Praktisk;;;4312912:15-13:45???;4312912:15-13:45Dansesal;2;1;2
+;BI-IDR1401;Lek og sans;B;5;29.jan;mandag;4;14:15-15:45;???;Idrettshall;Praktisk;Må dele hallen;;4312914:15-15:45???;4312914:15-15:45Idrettshall;1;2;2
+;BI-IDR1401;Innebandy;A;5;29.jan;mandag;4;14:15-15:45;Fredrik Lie Haugen;Idrettshall;Praktisk;Må dele hallen;;4312914:15-15:45Fredrik Lie Haugen;4312914:15-15:45Idrettshall;1;2;2
+;BI-IDR1401;Dans;B;5;30.jan;tirsdag;1;08:15-09:45;???;Dansesal;Praktisk;;;4313008:15-09:45???;4313008:15-09:45Dansesal;1;1;1
+;G2-KRO1300;Innebandy;;5;30.jan;tirsdag;1;08:15-09:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4313008:15-09:45Fredrik Lie Haugen;4313008:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Kollokvie;B;5;30.jan;tirsdag;2;10:15-11:45;Markus Vagle;;Teori;;;4313010:15-11:45Markus Vagle;4313010:15-11:45;1;1;1
+;BI-IDR1401;Dans;A;5;30.jan;tirsdag;2;10:15-11:45;???;Dansesal;Praktisk;;;4313010:15-11:45???;4313010:15-11:45Dansesal;1;1;1
+;G2-KRO1300;Håndball;;5;30.jan;tirsdag;2;10:15-11:45;Eivind Andersen;Idrettshall;Praktisk;;;4313010:15-11:45Eivind Andersen;4313010:15-11:45Idrettshall;1;1;1
+;BI-IDR1301;Kollokvie;A;5;30.jan;tirsdag;3;12:15-13:45;Markus Vagle;;Teori;;;4313012:15-13:45Markus Vagle;4313012:15-13:45;1;1;1
+;BI-IDR1401;Skøyter;B;5;30.jan;tirsdag;3;12:15-13:45;???;Ute;Praktisk;;;4313012:15-13:45???;4313012:15-13:45Ute;1;1;1
+;G1-KRO1100;Turn;;5;30.jan;tirsdag;3;12:15-13:45;Simen Thorrud;Idrettshall;Praktisk;;;4313012:15-13:45Simen Thorrud;4313012:15-13:45Idrettshall;1;1;1
+;BI-FAH2300;Økt 4;;5;30.jan;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4313012:15-15:45Anne Sæther;4313012:15-15:45;1;1;1
+;BI-IDR1401;Skøyter;A;5;30.jan;tirsdag;4;14:15-15:45;???;Ute;Praktisk;;;4313014:15-15:45???;4313014:15-15:45Ute;1;1;1
+;G1-KRO1100;Studentinstruksjon;;5;30.jan;tirsdag;4;14:15-15:45;Simen Thorrud;Idrettshall;Praktisk;;;4313014:15-15:45Simen Thorrud;4313014:15-15:45Idrettshall;1;1;1
+;G1-KRO1100;Svømming;;5;31.jan;onsdag;1;08:15-09:45;Simen Thorrud;Svømmehall;Praktisk;;;4313108:15-09:45Simen Thorrud;4313108:15-09:45Svømmehall;1;1;1
+;BI-IDR1301;Anatomi;;5;31.jan;onsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4313108:15-11:45Markus Vagle;4313108:15-11:45;1;2;2
+;G2-KRO1400;Teori KRØ;;5;31.jan;onsdag;f;08:15-11:45;???;;Teori;;;4313108:15-11:45???;4313108:15-11:45;1;2;2
+;G1-KRO1100;Didaktikk teori;;5;31.jan;onsdag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4313110:15-11:45Markus Johansen Aasland;4313110:15-11:45;1;1;1
+;BI-IDR1401;Svømming;3;5;31.jan;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4313112:15-13:45Anne Sæther;4313112:15-13:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;2;5;01.feb;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4313208:15-09:45Anne Sæther;4313208:15-09:45Svømmehall;1;1;1
+;BI-FFH3000;Økt 1;;5;01.feb;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4313208:15-14:00Hilde Grønningsæther;4313208:15-14:00;1;1;1
+;BI-IDR1401;Svømming;1;5;01.feb;torsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4313210:15-11:45Anne Sæther;4313210:15-11:45Svømmehall;1;1;1
+;G1-KRO1200;Teori KRØ;;6;05.feb;mandag;f;08:15-11:45;Simen Thorrud;;Teori;;;4313608:15-11:45Simen Thorrud;4313608:15-11:45;1;2;2
+;G2-KRO1400;Teori KRØ;;6;05.feb;mandag;F;08:15-11:45;???;;Teori;;;4313608:15-11:45???;4313608:15-11:45;1;2;2
+;BI-FFH3000;Økt 2;;6;05.feb;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4313608:15-14:00Hilde Grønningsæther;4313608:15-14:00;1;1;1
+;BI-IDR1401;Badminton;A;6;05.feb;mandag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4313612:15-13:45???;4313612:15-13:45Idrettshall;2;1;2
+;BI-IDR1401;Dans;B;6;05.feb;mandag;3;12:15-13:45;???;Dansesal;Praktisk;;;4313612:15-13:45???;4313612:15-13:45Dansesal;2;1;2
+;BI-IDR1401;Badminton;B;6;05.feb;mandag;4;14:15-15:45;???;Idrettshall;Praktisk;;;4313614:15-15:45???;4313614:15-15:45Idrettshall;2;1;2
+;BI-IDR1401;Dans;A;6;05.feb;mandag;4;14:15-15:45;???;Dansesal;Praktisk;;;4313614:15-15:45???;4313614:15-15:45Dansesal;2;1;2
+;G2-KRO1300;Håndball;;6;06.feb;tirsdag;1;08:15-09:45;Eivind Andersen;Idrettshall;Praktisk;;;4313708:15-09:45Eivind Andersen;4313708:15-09:45Idrettshall;1;1;1
+;G2-KRO1300;Innebandy;;6;06.feb;tirsdag;2;10:15-11:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4313710:15-11:45Fredrik Lie Haugen;4313710:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Badminton;B;6;06.feb;tirsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4313712:15-13:45???;4313712:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Teori volley;A;6;06.feb;tirsdag;3;12:15-13:45;Markus Johansen Aasland;;Teori;;;4313712:15-13:45Markus Johansen Aasland;4313712:15-13:45;1;1;1
+;BI-FAH2300;Økt 5;;6;06.feb;tirsdag;e;12:15-15:45;Hilde Grønningsæther;;Teori;;;4313712:15-15:45Hilde Grønningsæther;4313712:15-15:45;1;1;1
+;BI-IDR1401;Badminton;A;6;06.feb;tirsdag;4;14:15-15:45;???;Idrettshall;Praktisk;;;4313714:15-15:45???;4313714:15-15:45Idrettshall;1;1;1
+;BI-IDR1401;Teori volley;B;6;06.feb;tirsdag;4;14:15-15:45;Markus Johansen Aasland;;Teori;;;4313714:15-15:45Markus Johansen Aasland;4313714:15-15:45;1;1;1
+;G1-KRO1100;Turn;;6;07.feb;onsdag;1;08:15-09:45;Simen Thorrud;Idrettshall;Praktisk;;;4313808:15-09:45Simen Thorrud;4313808:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Fysiologi;;6;07.feb;onsdag;f;08:15-11:45;Fredrik Lie Haugen;;Teori;;;4313808:15-11:45Fredrik Lie Haugen;4313808:15-11:45;1;2;2
+;G2-KRO1300;Teori KRØ;;6;07.feb;onsdag;f;08:15-11:45;Markus Johansen Aasland;;Teori;Teori volleyball;;4313808:15-11:45Markus Johansen Aasland;4313808:15-11:45;1;2;2
+;G1-KRO1100;Svømming;;6;07.feb;onsdag;2;10:15-11:45;Simen Thorrud;Svømmehall;Praktisk;;;4313810:15-11:45Simen Thorrud;4313810:15-11:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;1;6;07.feb;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4313812:15-13:45Anne Sæther;4313812:15-13:45Svømmehall;1;1;1
+;BI-IDR1401;Volleyball;A;6;08.feb;torsdag;f;08:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4313908:15-11:45Markus Johansen Aasland;4313908:15-11:45Idrettshall;1;1;1
+;BI-FFH3000;Økt 3;;6;08.feb;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4313908:15-14:00Hilde Grønningsæther;4313908:15-14:00;1;1;1
+;BI-IDR1401;Volleyball;B;6;08.feb;torsdag;e;12:15-15:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4313912:15-15:45Markus Johansen Aasland;4313912:15-15:45Idrettshall;1;1;1
+;BI-IDR1401;Volleyball;B;7;12.feb;mandag;f;08:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4314308:15-11:45Markus Johansen Aasland;4314308:15-11:45Idrettshall;1;1;1
+;G1-KRO1200;Teori KRØ;;7;12.feb;mandag;f;08:15-11:45;Simen Thorrud;;Teori;;;4314308:15-11:45Simen Thorrud;4314308:15-11:45;1;2;2
+;G2-KRO1400;Teori KRØ;;7;12.feb;mandag;F;08:15-11:45;???;;Teori;;;4314308:15-11:45???;4314308:15-11:45;1;2;2
+;BI-FFH3000;Økt 4;;7;12.feb;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4314308:15-14:00Hilde Grønningsæther;4314308:15-14:00;1;1;1
+;G1-KRO1100;Ballaktivitet;;7;12.feb;mandag;3;12:15-13:45;Simen Thorrud;Idrettshall;Praktisk;;;4314312:15-13:45Simen Thorrud;4314312:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Volleyball;A;7;12.feb;mandag;e;12:15-15:45;Markus Johansen Aasland;Idrettshall;Praktisk;Må dele I-hall med G1 fra 12-14;;4314312:15-15:45Markus Johansen Aasland;4314312:15-15:45Idrettshall;1;1;1
+;BI-IDR1301;Fysiologi;;7;13.feb;tirsdag;f;08:15-11:45;Fredrik Lie Haugen;;Teori;;;4314408:15-11:45Fredrik Lie Haugen;4314408:15-11:45;1;3;3
+;G1-KRO1200;Teori KRØ;;7;13.feb;tirsdag;f;08:15-11:45;Markus Johansen Aasland;;Teori;;;4314408:15-11:45Markus Johansen Aasland;4314408:15-11:45;1;3;3
+;G2-KRO1400;Teori KRØ;;7;13.feb;tirsdag;F;08:15-11:45;???;;Teori;;;4314408:15-11:45???;4314408:15-11:45;1;3;3
+;BI-FAH2300;Økt 6;;7;13.feb;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4314412:15-15:45Anne Sæther;4314412:15-15:45;1;1;1
+;G2-KRO1300;Volleyball;;7;13.feb;tirsdag;e;12:15-15:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4314412:15-15:45Markus Johansen Aasland;4314412:15-15:45Idrettshall;1;1;1
+;G2-KRO1300;Volleyball;;7;14.feb;onsdag;f;08:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4314508:15-11:45Markus Johansen Aasland;4314508:15-11:45Idrettshall;1;1;1
+;BI-IDR1301;Kollokvie;;7;14.feb;onsdag;2;10:15-11:45;Fredrik Lie Haugen;;Teori;;;4314510:15-11:45Fredrik Lie Haugen;4314510:15-11:45;1;1;1
+;BI-IDR1401;Svømming;2;7;14.feb;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4314512:15-13:45Anne Sæther;4314512:15-13:45Svømmehall;1;2;2
+;G1-KRO1100;Svømming;;7;14.feb;onsdag;3;12:15-13:45;Simen Thorrud;Svømmehall;Praktisk;livredningstest?!;;4314512:15-13:45Simen Thorrud;4314512:15-13:45Svømmehall;1;2;2
+;BI-IDR1301;Kollokvie;;7;15.feb;torsdag;1;08:15-09:45;Fredrik Lie Haugen;;Teori;;;4314608:15-09:45Fredrik Lie Haugen;4314608:15-09:45;1;1;1
+;BI-IDR1401;Svømming;3;7;15.feb;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4314608:15-09:45Anne Sæther;4314608:15-09:45Svømmehall;1;1;1
+;BI-FFH3000;Økt 5;;7;15.feb;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4314608:15-14:00Hilde Grønningsæther;4314608:15-14:00;1;1;1
+;BI-IDR1401;Lek og sans;A;7;15.feb;torsdag;2;10:15-11:45;???;Idrettshall;Praktisk;;;4314610:15-11:45???;4314610:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Lek og sans;B;7;15.feb;torsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4314612:15-13:45???;4314612:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Studieuke;;8;19.feb;mandag;5;Hele dagen;;;;Studieuke hele uka;;43150Hele dagen;43150Hele dagen;3;3;3
+;G1-KRO1100;Studieuke;;8;19.feb;mandag;5;Hele dagen;;;;Studieuke hele uka;;43150Hele dagen;43150Hele dagen;3;3;3
+;G2-KRO1300;Studieuke;;8;19.feb;mandag;5;Hele dagen;;;;Studieuke hele uka;;43150Hele dagen;43150Hele dagen;3;3;3
+;BI-FFH3000;Økt 6;;9;26.feb;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4315708:15-14:00Hilde Grønningsæther;4315708:15-14:00;1;1;1
+;G2-KRO1300;Studieuke;;9;26.feb;mandag;5;Hele dagen;;;;Studieuke hele uka;;43157Hele dagen;43157Hele dagen;1;1;1
+;G1-KRO1100;Turn;;9;27.feb;tirsdag;1;08:15-09:45;Simen Thorrud;Idrettshall;Praktisk;;;4315808:15-09:45Simen Thorrud;4315808:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Fysiologi;;9;27.feb;tirsdag;f;08:15-11:45;Fredrik Lie Haugen;;Teori;;;4315808:15-11:45Fredrik Lie Haugen;4315808:15-11:45;1;1;1
+;G1-KRO1100;Ballaktivitet;;9;27.feb;tirsdag;2;10:15-11:45;Simen Thorrud;Idrettshall;Praktisk;;;4315810:15-11:45Simen Thorrud;4315810:15-11:45Idrettshall;1;1;1
+;G1-KRO1100;Didaktikk teori;;9;27.feb;tirsdag;3;12:15-13:45;Markus Johansen Aasland;;Teori;;;4315812:15-13:45Markus Johansen Aasland;4315812:15-13:45;1;1;1
+;BI-FAH2300;Økt 7;;9;27.feb;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4315812:15-15:45Anne Sæther;4315812:15-15:45;1;1;1
+;G1-KRO1200;Teori KRØ;;9;28.feb;onsdag;f;08:15-11:45;Simen Thorrud;;Teori;;;4315908:15-11:45Simen Thorrud;4315908:15-11:45;1;1;1
+;BI-IDR1401;Svømming;3;9;28.feb;onsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4315910:15-11:45Anne Sæther;4315910:15-11:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;2;9;28.feb;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4315912:15-13:45Anne Sæther;4315912:15-13:45Svømmehall;1;1;1
+;G1-KRO1100;Turn;;9;28.feb;onsdag;3;12:15-13:45;Simen Thorrud;Idrettshall;Praktisk;;;4315912:15-13:45Simen Thorrud;4315912:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;1;9;01.mar;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4316008:15-09:45Anne Sæther;4316008:15-09:45Svømmehall;1;1;1
+;MG1KR2;Gj.gang etter praksis;;9;01.mar;torsdag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4316008:15-09:45Markus Johansen Aasland;4316008:15-09:45;1;1;1
+;BI-FFH3000;Økt 7;;9;01.mar;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4316008:15-14:00Hilde Grønningsæther;4316008:15-14:00;1;1;1
+;BI-IDR1301;Fysiologi;;9;01.mar;torsdag;2;10:15-11:45;Heidi Lindsverk;;Teori;;;4316010:15-11:45Heidi Lindsverk;4316010:15-11:45;1;2;2
+;MG1KR2;Lek, akt. Og natur;;9;01.mar;torsdag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4316010:15-11:45Markus Johansen Aasland;4316010:15-11:45;1;2;2
+;BI-IDR1301;Fysiologi;;9;01.mar;torsdag;3;12:15-13:45;Heidi Lindsverk;;Teori;;;4316012:15-13:45Heidi Lindsverk;4316012:15-13:45;2;3;3
+;MG1KR2;Lek, akt. Og natur;;9;01.mar;torsdag;3;12:15-13:45;Markus Johansen Aasland;;Praktisk;Ute/inne?;;4316012:15-13:45Markus Johansen Aasland;4316012:15-13:45;1;3;3
+;MG2KR2;Teori KRØ;;9;01.mar;torsdag;3;12:15-13:45;Heidi Lindsverk;;Teori;;;4316012:15-13:45Heidi Lindsverk;4316012:15-13:45;2;3;3
+;MG1KR2;Teori KRØ;;9;02.mar;fredag;1;08:15-09:45;Heidi Lindsverk;;Teori;;;4316108:15-09:45Heidi Lindsverk;4316108:15-09:45;1;2;2
+;MG2KR2;Teori KRØ;;9;02.mar;fredag;1;08:15-09:45;Erlend Ellefsen Vinje;;Teori;;;4316108:15-09:45Erlend Ellefsen Vinje;4316108:15-09:45;1;2;2
+;MG1KR2;Teori KRØ;;9;02.mar;fredag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4316110:15-11:45Markus Johansen Aasland;4316110:15-11:45;1;1;1
+;MG2KR2;Skolerettet tvekamp;;9;02.mar;fredag;2;10:15-11:45;Erlend Ellefsen Vinje;Dansesal;Praktisk;;;4316110:15-11:45Erlend Ellefsen Vinje;4316110:15-11:45Dansesal;1;1;1
+;MG1KR2;Skolerettet tvekamp;;9;02.mar;fredag;3;12:15-13:45;Markus Johansen Aasland;Dansesal;Praktisk;;;4316112:15-13:45Markus Johansen Aasland;4316112:15-13:45Dansesal;1;1;1
+;BI-FFH3000;Økt 8;;10;05.mar;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4316408:15-14:00Hilde Grønningsæther;4316408:15-14:00;1;1;1
+;BI-IDR1401;Vinterkurs;;10;05.mar;mandag;5;Hele dagen;Fredrik Lie Haugen;;Praktisk;Vinterkurs hele uka - skeikampen (sammen med G1-KRO og G2-KRO);;43164Hele dagenFredrik Lie Haugen;43164Hele dagen;3;1;3
+;G1-KRO1100;Vinterkurs;;10;05.mar;mandag;5;Hele dagen;Fredrik Lie Haugen;Ute;Praktisk;Vinterkurs hele uka - skeikampen;;43164Hele dagenFredrik Lie Haugen;43164Hele dagenUte;3;2;3
+;G2-KRO1300;Vinterkurs;;10;05.mar;mandag;5;Hele dagen;Fredrik Lie Haugen;Ute;Praktisk;Vitnerkurs på Skeikampen hele uka;;43164Hele dagenFredrik Lie Haugen;43164Hele dagenUte;3;2;3
+;BI-FAH2300;Økt 8;;10;06.mar;tirsdag;e;12:15-15:45;Hilde Grønningsæther;;Teori;;;4316512:15-15:45Hilde Grønningsæther;4316512:15-15:45;1;1;1
+;MG1KR2;Skolerettet tvekamp;;10;08.mar;torsdag;1;08:15-09:45;Markus Johansen Aasland;Dansesal;Praktisk;;;4316708:15-09:45Markus Johansen Aasland;4316708:15-09:45Dansesal;1;1;1
+;MG2KR2;Teori KRØ;;10;08.mar;torsdag;1;08:15-09:45;Heidi Lindsverk;;Teori;;;4316708:15-09:45Heidi Lindsverk;4316708:15-09:45;1;1;1
+;MG1KR2;Teori KRØ;;10;08.mar;torsdag;2;10:15-11:45;Markus Johansen Aasland;;Teori;;;4316710:15-11:45Markus Johansen Aasland;4316710:15-11:45;1;1;1
+;MG2KR2;Skolerettet tvekamp;;10;08.mar;torsdag;2;10:15-11:45;Erlend Ellefsen Vinje;Dansesal;Praktisk;;;4316710:15-11:45Erlend Ellefsen Vinje;4316710:15-11:45Dansesal;1;1;1
+;MG2KR2;Dans 1;;10;08.mar;torsdag;3;12:15-13:45;???;Dansesal;Praktisk;;;4316712:15-13:45???;4316712:15-13:45Dansesal;1;1;1
+;MG2KR2;Dans 2;;10;09.mar;fredag;1;08:15-09:45;???;Dansesal;Praktisk;;;4316808:15-09:45???;4316808:15-09:45Dansesal;1;1;1
+;MG1KR2;Lek, akt. Og natur;;10;09.mar;fredag;2;10:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4316810:15-11:45Markus Johansen Aasland;4316810:15-11:45Idrettshall;1;1;1
+;MG2KR2;Alt. Bevegelse akt.;;10;09.mar;fredag;2;10:15-11:45;Erlend Ellefsen Vinje;;Teori;;;4316810:15-11:45Erlend Ellefsen Vinje;4316810:15-11:45;1;1;1
+;MG2KR2;Alt. Bevegelse akt.;;10;09.mar;fredag;3;12:15-13:45;Erlend Ellefsen Vinje;Idrettshall;Praktisk;+ ute;;4316812:15-13:45Erlend Ellefsen Vinje;4316812:15-13:45Idrettshall;1;1;1
+;MG2KR2;Alt. Bevegelse akt.;;10;09.mar;fredag;4;14:15-15:45;Erlend Ellefsen Vinje;Ute;Praktisk;;;4316814:15-15:45Erlend Ellefsen Vinje;4316814:15-15:45Ute;1;1;1
+;G2-KRO1400;Teori KRØ;;11;12.mar;mandag;f;08:15-11:45;???;;Teori;;;4317108:15-11:45???;4317108:15-11:45;1;1;1
+;BI-FFH3000;Økt 9;;11;12.mar;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4317108:15-14:00Hilde Grønningsæther;4317108:15-14:00;1;1;1
+;G1-KRO1200;Teori KRØ;;11;12.mar;mandag;e;12:15-15:45;Markus Johansen Aasland;;Teori;;;4317112:15-15:45Markus Johansen Aasland;4317112:15-15:45;1;1;1
+;MG1KR2;Vinterkurs;;11;12.mar;mandag;5;Hele dagen;???;;;Stokke stadion - ski?;;43171Hele dagen???;43171Hele dagen;2;2;2
+;MG2KR2;Vinterkurs;;11;12.mar;mandag;5;Hele dagen;???;;;Stokke stadion - ski?;;43171Hele dagen???;43171Hele dagen;2;2;2
+;G1-KRO1100;Ballaktivitet;;11;13.mar;tirsdag;1;08:15-09:45;Simen Thorrud;Idrettshall;Praktisk;;;4317208:15-09:45Simen Thorrud;4317208:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Ernæring;;11;13.mar;tirsdag;f;08:15-11:45;Marthe Bottolfs;;Teori;;;4317208:15-11:45Marthe Bottolfs;4317208:15-11:45;;;
+;G1-KRO1100;Fotball;;11;13.mar;tirsdag;2;10:15-11:45;Markus Johansen Aasland;Ute;Praktisk;;;4317210:15-11:45Markus Johansen Aasland;4317210:15-11:45Ute;1;1;1
+;BI-FAH2300;Økt 9;;11;13.mar;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4317212:15-15:45Anne Sæther;4317212:15-15:45;1;1;1
+;MG1KR2;Vinterkurs;;11;13.mar;tirsdag;5;Hele dagen;???;;;Stokke stadion - ski?;;43172Hele dagen???;43172Hele dagen;;;
+;MG2KR2;Vinterkurs;;11;13.mar;tirsdag;5;Hele dagen;???;;;Stokke stadion - ski?;;43172Hele dagen???;43172Hele dagen;2;2;2
+;BI-IDR1301;Kollokvie;B;11;14.mar;onsdag;1;08:15-09:45;Markus Vagle;;Teori;;;4317308:15-09:45Markus Vagle;4317308:15-09:45;1;1;1
+;BI-IDR1401;Lek og sans;A;11;14.mar;onsdag;1;08:15-09:45;???;Idrettshall;Praktisk;;;4317308:15-09:45???;4317308:15-09:45Idrettshall;;;
+;G2-KRO1400;Teori KRØ;;11;14.mar;onsdag;f;08:15-11:45;???;;Teori;;;4317308:15-11:45???;4317308:15-11:45;1;1;1
+;BI-IDR1301;Kollokvie;A;11;14.mar;onsdag;2;10:15-11:45;Markus Vagle;;Teori;;;4317310:15-11:45Markus Vagle;4317310:15-11:45;1;1;1
+;BI-IDR1401;Lek og sans;B;11;14.mar;onsdag;2;10:15-11:45;???;Idrettshall;Praktisk;;;4317310:15-11:45???;4317310:15-11:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;1;11;14.mar;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4317312:15-13:45Anne Sæther;4317312:15-13:45Svømmehall;1;1;1
+;MG1KR2;Vinterkurs;;11;14.mar;onsdag;5;Hele dagen;Fredrik Lie Haugen;Eksternt;Praktisk;Vinterkurs onsdag - fredag -> Rjukan?;;43173Hele dagenFredrik Lie Haugen;43173Hele dagenEksternt;2;1;2
+;MG2KR2;Vinterkurs;;11;14.mar;onsdag;5;Hele dagen;Fredrik Lie Haugen;;Praktisk;Vinterkurs onsdag - fredag -> Rjukan?;;43173Hele dagenFredrik Lie Haugen;43173Hele dagen;2;1;2
+;BI-IDR1401;Svømming;2;11;15.mar;torsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4317408:15-09:45Anne Sæther;4317408:15-09:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;3;11;15.mar;torsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4317410:15-11:45Anne Sæther;4317410:15-11:45Svømmehall;1;1;1
+;BI-IDR1301;Fysiologi;;11;15.mar;torsdag;e;12:15-15:45;Heidi Lindsverk;;Teori;;;4317412:15-15:45Heidi Lindsverk;4317412:15-15:45;1;1;1
+;BI-IDR1301;Ernæring;;12;19.mar;mandag;f;08:15-11:45;Marthe Bottolfs;;Teori;;;4317808:15-11:45Marthe Bottolfs;4317808:15-11:45;1;3;3
+;G1-KRO1200;Teori KRØ;;12;19.mar;mandag;f;08:15-11:45;Markus Johansen Aasland;;Teori;;;4317808:15-11:45Markus Johansen Aasland;4317808:15-11:45;;;
+;G2-KRO1400;Teori KRØ;;12;19.mar;mandag;f;08:15-11:45;???;;Teori;;;4317808:15-11:45???;4317808:15-11:45;1;3;3
+;BI-FFH3000;Økt 10;;12;19.mar;mandag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4317808:15-14:00Hilde Grønningsæther;4317808:15-14:00;1;1;1
+;G1-KRO1100;Fotball;;12;19.mar;mandag;3;12:15-13:45;Markus Johansen Aasland;Ute;Praktisk;;;4317812:15-13:45Markus Johansen Aasland;4317812:15-13:45Ute;1;1;1
+;G2-KRO1300;Fotball;;12;19.mar;mandag;3;12:15-13:45;Fredrik Lie Haugen;Idrettshall;Praktisk;;;4317812:15-13:45Fredrik Lie Haugen;4317812:15-13:45Idrettshall;1;1;1
+;BI-IDR1301;Fysiologi;;12;20.mar;tirsdag;f;08:15-11:45;Eivind Andersen;;Teori;;;4317908:15-11:45Eivind Andersen;4317908:15-11:45;1;1;1
+;G2-KRO1300;Friidrett;;12;20.mar;tirsdag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4317910:15-11:45Fredrik Lie Haugen;4317910:15-11:45Ute;1;1;1
+;BI-IDR1401;Lek og sans;B;12;20.mar;tirsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4317912:15-13:45???;4317912:15-13:45Idrettshall;1;1;1
+;BI-FAH2300;Økt 10;;12;20.mar;tirsdag;e;12:15-15:45;Trine Thoresen;;Teori;;;4317912:15-15:45Trine Thoresen;4317912:15-15:45;1;1;1
+;BI-IDR1401;Lek og sans;A;12;20.mar;tirsdag;4;14:15-15:45;???;Idrettshall;Praktisk;;;4317914:15-15:45???;4317914:15-15:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;2;12;21.mar;onsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4318008:15-09:45Anne Sæther;4318008:15-09:45Svømmehall;1;1;1
+;G1-KRO1200;Teori KRØ;;12;21.mar;onsdag;f;08:15-11:45;Simen Thorrud;;Teori;;;4318008:15-11:45Simen Thorrud;4318008:15-11:45;1;1;1
+;BI-IDR1401;Svømming;3;12;21.mar;onsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4318010:15-11:45Anne Sæther;4318010:15-11:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;1;12;21.mar;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4318012:15-13:45Anne Sæther;4318012:15-13:45Svømmehall;1;1;1
+;G1-KRO1100;Fotball;;12;21.mar;onsdag;3;12:15-13:45;Markus Johansen Aasland;Ute;Praktisk;;;4318012:15-13:45Markus Johansen Aasland;4318012:15-13:45Ute;1;1;1
+;BI-FFH3000;Økt 11;;12;22.mar;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4318108:15-14:00Hilde Grønningsæther;4318108:15-14:00;1;1;1
+;G1-KRO1200;Teori KRØ;;14;03.apr;tirsdag;f;08:15-11:45;Markus Johansen Aasland;;teori;;;4319308:15-11:45Markus Johansen Aasland;4319308:15-11:45;1;2;2
+;G2-KRO1400;Teori KRØ;;14;03.apr;tirsdag;f;08:15-11:45;???;;Teori;;;4319308:15-11:45???;4319308:15-11:45;1;2;2
+;G2-KRO1300;Fotball;;14;03.apr;tirsdag;3;12:15-13:45;Fredrik Lie Haugen;Ute;Praktisk;;;4319312:15-13:45Fredrik Lie Haugen;4319312:15-13:45Ute;1;1;1
+;BI-FAH2300;Økt 11;;14;03.apr;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4319312:15-15:45Anne Sæther;4319312:15-15:45;1;1;1
+;G1-KRO1100;Orientering;;14;04.apr;onsdag;1;08:15-09:45;Steinar Øvreås;Ute;Praktisk;;;4319408:15-09:45Steinar Øvreås;4319408:15-09:45Ute;1;1;1
+;G2-KRO1300;Studentinstruksjon;;14;04.apr;onsdag;1;08:15-09:45;???;Idrettshall;Praktisk;;;4319408:15-09:45???;4319408:15-09:45Idrettshall;1;1;1
+;BI-IDR1301;Treningslære;;14;04.apr;onsdag;f;08:15-11:45;Markus Vagle;;Teori;;;4319408:15-11:45Markus Vagle;4319408:15-11:45;1;1;1
+;G1-KRO1100;Studentinstruksjon;;14;04.apr;onsdag;2;10:15-11:45;Simen Thorrud;Idrettshall;Praktisk;;;4319410:15-11:45Simen Thorrud;4319410:15-11:45Idrettshall;1;1;1
+;G2-KRO1300;Friidrett;;14;04.apr;onsdag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4319410:15-11:45Fredrik Lie Haugen;4319410:15-11:45Ute;1;1;1
+;BI-IDR1401;Lek og sans;A;14;04.apr;onsdag;3;12:15-13:45;???;Idrettshall;Praktisk;;;4319412:15-13:45???;4319412:15-13:45Idrettshall;1;1;1
+;BI-IDR1401;Lek og sans;B;14;04.apr;onsdag;4;14:15-15:45;???;Idrettshall;Praktisk;;;4319414:15-15:45???;4319414:15-15:45Idrettshall;1;1;1
+;BI-IDR1401;Svømming;1;14;05.apr;torsdag;1;08:15-09:45;Anne Sæther;;Praktisk;;;4319508:15-09:45Anne Sæther;4319508:15-09:45;1;3;3
+;MG1KR2;Uteskole;;14;05.apr;torsdag;1;08:15-09:45;Simen Thorrud;;Teori;;;4319508:15-09:45Simen Thorrud;4319508:15-09:45;1;3;3
+;MG2KR2;Teori KRØ;;14;05.apr;torsdag;1;08:15-09:45;???;;Teori;Spiseforstyrelser / kroppspress 1;;4319508:15-09:45???;4319508:15-09:45;1;3;3
+;BI-FFH3000;Økt 12;;14;05.apr;torsdag;pha;08:15-14:00;Hilde Grønningsæther;;Teori;;;4319508:15-14:00Hilde Grønningsæther;4319508:15-14:00;1;1;1
+;BI-IDR1401;Svømming;2;14;05.apr;torsdag;2;10:15-11:45;Anne Sæther;;Praktisk;;;4319510:15-11:45Anne Sæther;4319510:15-11:45;1;2;2
+;MG1KR2;Uteskole;;14;05.apr;torsdag;2;10:15-11:45;Simen Thorrud;Ute;Praktisk;4 timer ute her!;;4319510:15-11:45Simen Thorrud;4319510:15-11:45Ute;1;1;1
+;MG2KR2;Alt. Bevegelse akt.;;14;05.apr;torsdag;2;10:15-11:45;Erlend Ellefsen Vinje;;Teori;;;4319510:15-11:45Erlend Ellefsen Vinje;4319510:15-11:45;1;2;2
+;BI-IDR1301;Kollokvie;;14;05.apr;torsdag;3;12:15-13:45;Markus Vagle;;Teori;;;4319512:15-13:45Markus Vagle;4319512:15-13:45;1;1;1
+;MG1KR2;Uteskole;;14;05.apr;torsdag;3;12:15-13:45;Simen Thorrud;Ute;Praktisk;Ses i sammenheng med den over;;4319512:15-13:45Simen Thorrud;4319512:15-13:45Ute;1;1;1
+;MG2KR2;Dans 3;;14;05.apr;torsdag;3;12:15-13:45;???;Dansesal;Praktisk;;;4319512:15-13:45???;4319512:15-13:45Dansesal;1;1;1
+;MG1KR2;Uteskole;;14;06.apr;fredag;1;08:15-09:45;Simen Thorrud;;Teori;;;4319608:15-09:45Simen Thorrud;4319608:15-09:45;1;1;1
+;MG1KR2;Uteskole;;14;06.apr;fredag;2;10:15-11:45;Simen Thorrud;Ute;Praktisk;;;4319610:15-11:45Simen Thorrud;4319610:15-11:45Ute;1;1;1
+;MG2KR2;Teori KRØ;;14;06.apr;fredag;2;10:15-11:45;Heidi Lindsverk;;Teori;;;4319610:15-11:45Heidi Lindsverk;4319610:15-11:45;1;1;1
+;MG2KR2;Dans 4;;14;06.apr;fredag;3;12:15-13:45;???;Dansesal;Praktisk;;;4319612:15-13:45???;4319612:15-13:45Dansesal;1;1;1
+;G2-KRO1300;Praksis uke 15-16;;15;09.apr;mandag;;;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 15 & 16;;43199;43199;1;1;1
+;BI-IDR1301;Treningslære;;15;09.apr;mandag;f;08:15-11:45;Markus Vagle;;Teori;;;4319908:15-11:45Markus Vagle;4319908:15-11:45;1;1;1
+;BI-IDR1401;Svømming;3;15;09.apr;mandag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4319912:15-13:45Anne Sæther;4319912:15-13:45Svømmehall;1;1;1
+;G1-KRO1100;Praksis uke 15-16;;15;09.apr;mandag;5;Hele dagen;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 15-16;;43199Hele dagen;43199Hele dagen;1;1;1
+;BI-IDR1301;Treningslære;;15;10.apr;tirsdag;f;08:15-11:45;Eivind Andersen;;Teori;;;4320008:15-11:45Eivind Andersen;4320008:15-11:45;1;1;1
+;BI-FAH2300;Økt 12;;15;10.apr;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4320012:15-15:45Anne Sæther;4320012:15-15:45;1;1;1
+;BI-IDR1401;Svømming;1;15;11.apr;onsdag;1;08:15-09:45;Anne Sæther;Svømmehall;Praktisk;;;4320108:15-09:45Anne Sæther;4320108:15-09:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;2;15;11.apr;onsdag;2;10:15-11:45;Anne Sæther;Svømmehall;Praktisk;;;4320110:15-11:45Anne Sæther;4320110:15-11:45Svømmehall;1;1;1
+;BI-IDR1401;Svømming;3;15;11.apr;onsdag;3;12:15-13:45;Anne Sæther;Svømmehall;Praktisk;;;4320112:15-13:45Anne Sæther;4320112:15-13:45Svømmehall;1;1;1
+;MG1KR2;Teori KRØ;;15;12.apr;torsdag;f;08:15-11:45;Heidi Lindsverk;;Teori;;;4320208:15-11:45Heidi Lindsverk;4320208:15-11:45;1;1;1
+;MG2KR2;Teori KRØ;;15;12.apr;torsdag;2;10:15-11:45;???;;Teori;Spiseforstyrelser / kroppspress 2;;4320210:15-11:45???;4320210:15-11:45;1;1;1
+;MG2KR2;Dans 5;;15;12.apr;torsdag;3;12:15-13:45;???;Dansesal;Praktisk;;;4320212:15-13:45???;4320212:15-13:45Dansesal;1;1;1
+;MG1KR2;Lek, akt. Og natur;;15;13.apr;fredag;2;10:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4320310:15-11:45Markus Johansen Aasland;4320310:15-11:45Idrettshall;1;1;1
+;MG2KR2;Teori KRØ;;15;13.apr;fredag;2;10:15-11:45;Heidi Lindsverk;;Teori;;;4320310:15-11:45Heidi Lindsverk;4320310:15-11:45;1;1;1
+;G2-KRO1300;Praksis uke 15-16;;16;16.apr;mandag;;;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 15 & 16;;43206;43206;1;1;1
+;BI-IDR1301;Treningslære;;16;16.apr;mandag;f;08:15-11:45;Heidi Lindsverk;;Teori;;;4320608:15-11:45Heidi Lindsverk;4320608:15-11:45;1;1;1
+;G1-KRO1100;Praksis uke 15-16;;16;16.apr;mandag;5;Hele dagen;;;;PRAKSIS UTENFOR CAMPS ALLE DAGER UKE 15-16;;43206Hele dagen;43206Hele dagen;1;1;1
+;BI-IDR1301;Treningslære;B;16;17.apr;tirsdag;f;08:15-11:45;Markus Vagle;Ute;Praktisk;;;4320708:15-11:45Markus Vagle;4320708:15-11:45Ute;1;1;1
+;BI-FAH2300;Økt 13;;16;17.apr;tirsdag;e;12:15-15:45;Hilde Grønningsæther;;Teori;;;4320712:15-15:45Hilde Grønningsæther;4320712:15-15:45;1;1;1
+;BI-IDR1301;Treningslære;A;16;17.apr;tirsdag;e;12:15-15:45;Markus Vagle;Ute;Praktisk;;;4320712:15-15:45Markus Vagle;4320712:15-15:45Ute;1;1;1
+;MG1KR2;Alt. Bevegelse akt.;;16;19.apr;torsdag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4320908:15-09:45Markus Johansen Aasland;4320908:15-09:45;1;1;1
+;MG2KR2;Uteskole;;16;19.apr;torsdag;1;08:15-09:45;???;;Teori;;;4320908:15-09:45???;;;;
+;MG1KR2;Alt. Bevegelse akt.;;16;19.apr;torsdag;2;10:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;+ ute;;4320910:15-11:45Markus Johansen Aasland;;;;
+;MG2KR2;Uteskole;;16;19.apr;torsdag;2;10:15-11:45;???;Ute;Praktisk;4 timer ute her!;;4320910:15-11:45???;;;;
+;MG1KR2;Alt. Bevegelse akt.;;16;19.apr;torsdag;3;12:15-13:45;Markus Johansen Aasland;Ute;Praktisk;;;4320912:15-13:45Markus Johansen Aasland;;;;
+;MG2KR2;Uteskole;;16;19.apr;torsdag;3;12:15-13:45;???;Ute;Praktisk;Ses i sammenheng med den over;;4320912:15-13:45???;;;;
+;MG1KR2;Teori KRØ;;16;20.apr;fredag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4321008:15-09:45Markus Johansen Aasland;;;;
+;MG2KR2;Uteskole;;16;20.apr;fredag;1;08:15-09:45;???;;Teori;;;4321008:15-09:45???;;;;
+;MG1KR2;Lek, akt. Og natur;;16;20.apr;fredag;2;10:15-11:45;Markus Johansen Aasland;Idrettshall;Praktisk;;;4321010:15-11:45Markus Johansen Aasland;;;;
+;MG2KR2;Uteskole;;16;20.apr;fredag;2;10:15-11:45;???;Ute;Praktisk;;;4321010:15-11:45???;;;;
+;G2-KRO1400;Teori KRØ;;17;23.apr;mandag;F;08:15-11:45;???;;Teori;;;4321308:15-11:45???;;;;
+;G1-KRO1100;Orientering;;17;23.apr;mandag;2;10:15-11:45;Steinar Øvreås;Ute;Praktisk;;;4321310:15-11:45Steinar Øvreås;;;;
+;G2-KRO1300;Fotball;;17;23.apr;mandag;3;12:15-13:45;Fredrik Lie Haugen;Ute;Praktisk;;;4321312:15-13:45Fredrik Lie Haugen;;;;
+;G1-KRO1200;Teori KRØ;;17;23.apr;mandag;e;12:15-15:45;Markus Johansen Aasland;;Teori;;;4321312:15-15:45Markus Johansen Aasland;;;;
+;G2-KRO1300;Friidrett;;17;24.apr;tirsdag;1;08:15-09:45;Fredrik Lie Haugen;Ute;Praktisk;;;4321408:15-09:45Fredrik Lie Haugen;;;;
+;BI-IDR1301;Treningslære;;17;24.apr;tirsdag;F;08:15-11:45;Markus Vagle;;Teori;;;4321408:15-11:45Markus Vagle;;;;
+;G2-KRO1300;Fotball;;17;24.apr;tirsdag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4321410:15-11:45Fredrik Lie Haugen;;;;
+;BI-FAH2300;Økt 14;;17;24.apr;tirsdag;e;12:15-15:45;Anne Sæther;;Teori;;;4321412:15-15:45Anne Sæther;;;;
+;G1-KRO1100;Friidrett;;17;25.apr;onsdag;1;08:15-09:45;Simen Thorrud;Ute;Praktisk;;;4321508:15-09:45Simen Thorrud;;;;
+;G1-KRO1100;Orientering;;17;25.apr;onsdag;2;10:15-11:45;Steinar Øvreås;Ute;Praktisk;;;4321510:15-11:45Steinar Øvreås;;;;
+;BI-IDR1301;Treningslære;;17;26.apr;torsdag;F;08:15-11:45;Heidi Lindsverk;;Teori;;;4321608:15-11:45Heidi Lindsverk;;;;
+;MG2KR2;Teori KRØ;;17;26.apr;torsdag;2;10:15-11:45;Heidi Lindsverk;;Teori;;;4321610:15-11:45Heidi Lindsverk;;;;
+;MG1KR2;Alt. Bevegelse akt.;;17;27.apr;fredag;1;08:15-09:45;Markus Johansen Aasland;;Teori;;;4321708:15-09:45Markus Johansen Aasland;;;;
+;MG1KR2;Teori KRØ;;17;27.apr;fredag;2;10:15-11:45;Heidi Lindsverk;;Teori;;;4321710:15-11:45Heidi Lindsverk;;;;
+;MG1KR2;Lek, akt. Og natur;;17;27.apr;fredag;3;12:15-13:45;Markus Johansen Aasland;Ute;Praktisk;;;4321712:15-13:45Markus Johansen Aasland;;;;
+;MG2KR2;Studiedag;;17;27.apr;fredag;5;Hele dagen;;;;;;43217Hele dagen;;;;
+;G1-KRO1100;Orientering;;18;02.mai;onsdag;1;08:15-09:45;Steinar Øvreås;Ute;Praktisk;;;4322208:15-09:45Steinar Øvreås;;;;
+;G2-KRO1300;Fotball;;18;02.mai;onsdag;1;08:15-09:45;Fredrik Lie Haugen;Ute;Praktisk;;;4322208:15-09:45Fredrik Lie Haugen;;;;
+;BI-FAH2300;Økt 15;;18;02.mai;onsdag;f;08:15-11:45;Anne Sæther;;Teori;;;4322208:15-11:45Anne Sæther;;;;
+;G1-KRO1100;Studentinstruksjon;;18;02.mai;onsdag;2;10:15-11:45;Simen Thorrud;Idrettshall;Praktisk;;;4322210:15-11:45Simen Thorrud;;;;
+;G2-KRO1300;Friidrett;;18;02.mai;onsdag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4322210:15-11:45Fredrik Lie Haugen;;;;
+;G2-KRO1300;Studentinstruksjon;;18;02.mai;onsdag;3;12:15-13:45;???;Ute;Praktisk;;;4322212:15-13:45???;;;;
+;G1-KRO1100;Friidrett;;18;03.mai;torsdag;1;08:15-09:45;Simen Thorrud;Ute;Praktisk;;;4322308:15-09:45Simen Thorrud;;;;
+;G2-KRO1300;Fotball;;18;03.mai;torsdag;1;08:15-09:45;Fredrik Lie Haugen;Ute;Praktisk;;;4322308:15-09:45Fredrik Lie Haugen;;;;
+;G1-KRO1100;Orientering;;18;03.mai;torsdag;2;10:15-11:45;Steinar Øvreås;Ute;Praktisk;;;4322310:15-11:45Steinar Øvreås;;;;
+;G2-KRO1300;Friidrett;;18;03.mai;torsdag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4322310:15-11:45Fredrik Lie Haugen;;;;
+;G2-KRO1400;Teori KRØ;;18;04.mai;fredag;1;08:15-09:45;???;;Teori;;;4322408:15-09:45???;;;;
+;G1-KRO1200;Teori KRØ;;18;04.mai;fredag;f;08:15-11:45;Simen Thorrud;;Teori;;;4322408:15-11:45Simen Thorrud;;;;
+;G2-KRO1300;Friidrett;;18;04.mai;fredag;2;10:15-11:45;Fredrik Lie Haugen;Ute;Praktisk;;;4322410:15-11:45Fredrik Lie Haugen;;;;
+;G1-KRO1100;Friidrett;;18;04.mai;fredag;3;12:15-13:45;Simen Thorrud;Ute;Praktisk;;;4322412:15-13:45Simen Thorrud;;;;
+;BI-IDR1301;EKSAMEN;;18;04.mai;fredag;5;Hele dagen;Markus Vagle;;;Skriftlig eksamen;;43224Hele dagenMarkus Vagle;;;;
+;BI-IDR1401;Kano tur;;19;07.mai;mandag;5;Hele dagen;Fredrik Lie Haugen;Ute;;Overnattingstur fra 7/5 - 8/5;;;;;;
+;BI-IDR1401;Kano tur;;19;08.mai;tirsdag;5;Hele dagen;Fredrik Lie Haugen;Ute;;;;;;;;
+;BI-IDR1401;Trekk eksamen;;19;09.mai;onsdag;1;08:15-09:45;Fredrik Lie Haugen;;;;;;;;;
+;BI-IDR1401;EKSAMEN;;20;14.mai;mandag;5;Hele dagen;Fredrik Lie Haugen;Idrettshall;Praktisk;+ svømmehall og dansesal;;;;;;
+;BI-IDR1401;EKSAMEN;;20;15.mai;tirsdag;5;Hele dagen;Fredrik Lie Haugen;Idrettshall;Praktisk;+ dansesal;;;;;;
+;BI-IDR1401;EKSAMEN;;20;16.mai;onsdag;5;Hele dagen;Fredrik Lie Haugen;Idrettshall;Praktisk;+ svømmehall og dansesal;;;;;;
+;;;;;;lørdag;;;;;;;;;;;;
+;;;;;;lørdag;;;;;;;;;;;;
+;;;;;;lørdag;;;;;;;;;;;;
+;;;;;;lørdag;;;;;;;;;;;;
+;;;;;;lørdag;;;;;;;;;;260;302;302
+;;;;;;lørdag;;;;;;;;;;261;303;303
+;;;;;;lørdag;;;;;;;;;;262;304;304
